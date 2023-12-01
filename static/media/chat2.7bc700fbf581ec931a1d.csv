@@ -1,0 +1,33 @@
+chatId,text,isUser,nextChat,nextScenario
+1,Start,0,,1
+2,Hey :) How's your day shining?,0,3,
+3,:),0,,2
+4,"I'm good, listening to some music, what's tunes are you listening to today?",0,,3
+5,Nice choice! Any favorite artists?,0,,4
+6,Solid picks! Jorja Smith’s voice is something else. Heard her latest track?,0,,5
+7,"Absolutely, 'Backwards' hits deep. Music has this way of reaching right into your soul. Speaking of feelings, ever had art that just pulls you in like that?",0,,8
+9,That's awesome! Art can be such a powerful way to express emotions. I actually love painting too! It's a great way to relax and let my creativity flow. What kind of portraits do you like to paint?,0,,9
+10,"it sounds really cool! How about a paint session at that art studio downtown?"" I'd be honored if you painted my face. Feel free to let your creativity flow and capture those emotions. can't wait to see it! 😊🎨",0,,10
+11,Continue chatting more about other topics later,0,213,
+101,,0,,
+102,"nice, what tunes are you vibing with today?",0,,3
+103,,0,,
+104,,0,,
+105,,0,,
+106,"No judgment here! Nicki’s got bars, and Katy Perry’s tunes are catchy. Any favorite tracks from them?",0,,6
+107,"You should! this This album hits deep. Music has this way of reaching right into your soul. Speaking of feelings, ever had art that just pulls you in like that?""",0,,
+108,"Ah, 'SUPER FREAKY GIRL,' huh? That song's got those catchy vibes! Can’t help but groove to it. So, speaking of funky tunes, ever seen art that made you wanna dance",0,,8
+109,"Absolutely! I totally agree that art is subjective. Textured oil paintings sound amazing! I enjoy painting as well, especially experimenting with different materials and techniques. It's such a fun and expressive way to let your imagination run wild. What's your favorite material to experiment with?",0,,9
+110,"Sounds like a masterpiece in the making! It must be so exciting to see them rise up and create unique textures. Let's paint the town with colors, and I'll be happy to add my artistic touch to it! 🎨😄",0,,11
+201,,0,,
+202,,0,,
+203,,0,,
+204,,0,,
+205,,0,,
+206,"No, I have heard of them, but never listened to any of their songs. ",0,207,
+207,Any Recommendations?,0,,7
+208,"I'm down to give it a spin! Thanks for the recommendation. Speaking of new experiences, how about exploring some mind-bending art together",0,,8
+209,,0,,
+210,"Sure we can talk about other things, what's been on your mind lately? Any interesting hobbies or activities?",0,,13
+213,End ,,,
+214,"Sure, my social is ......",0,,
